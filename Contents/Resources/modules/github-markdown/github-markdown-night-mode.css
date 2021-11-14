@@ -1,11 +1,11 @@
 
 .night-mode, .night-mode .markdown-body {
-  background-color: #202020;
+  background-color: #271F25;
   color: #dedede;
 }
 
 .night-mode .markdown-body a {
-  color: #0C63C7;
+  color: #60CFFF;
 }
 
 .night-mode .markdown-body hr {
@@ -55,5 +55,5 @@
 
 .night-mode .markdown-body code,
 .night-mode .markdown-body pre {
-  background-color: #242422;
+  background-color: #271F25;
 }
